@@ -1,5 +1,9 @@
 # three.js_basicEx
 three.js
+### 结果
+* 任务结果
+![image](https://raw.githubusercontent.com/lmislm/three.js_basicEx/master/img/ife%E5%9B%BE%E5%83%8F%205.png)
+### 过程
 * Know how to use Renderer，Scene,Camera，
 * renderer the canvas by three.js,[another example](https://github.com/Ovilia/ThreeExample.js/blob/master/Chapter1/1.2.1.html#L24)
 * Created an cuboid  x=1,y=2,z=3, which background color is black,
